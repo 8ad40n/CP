@@ -3,6 +3,10 @@
         "*.embeddedhtml": "html",
         "deque": "cpp",
         "vector": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "xiosbase": "cpp",
+        "memory": "cpp",
+        "system_error": "cpp",
+        "type_traits": "cpp"
     }
 }
